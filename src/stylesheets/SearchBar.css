@@ -1,0 +1,9 @@
+.search-bar {
+  margin: 40px auto;
+  max-width: 40%;
+}
+
+.search-bar input {
+  width: 50%;
+  margin: auto;
+}

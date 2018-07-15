@@ -1,0 +1,14 @@
+.panel {
+	width: 250px;
+	margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  overflow: hidden;
+	
+}
+.panel-body img {
+  max-width: 90%;
+  width: auto;
+  height: 90%;
+  max-height: 330px;
+}
